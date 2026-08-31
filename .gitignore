@@ -1,0 +1,7 @@
+# Virtual environment
+.au/
+
+# Code Runner temporary files
+.code-runner/
+tempCodeRunnerFile.py
+*.code-runner-temp-file
